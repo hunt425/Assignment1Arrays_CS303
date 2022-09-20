@@ -1,7 +1,7 @@
-#Hnter Tysdal
+#Hunter Tysdal
 # Assignment1Arrays_CS303
 
-This code goes through all of the main in one go (there is no menu option or loop continuing the code)
+This code goes through all of the main in one go (there is no menu option or loop continuing the code).
 It goes through all of the assignment requirements: reading an array, looking for a number in an array,
 modifying a number ata a specific index, adding a number the end of the array, and removing an integer from
 a specific index of the array. Most of the code is run using for loops to read and find indexes of the array.
